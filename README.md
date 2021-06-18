@@ -1,2 +1,2 @@
-# pyhton assignment
-Assigmennt 1 of mycaptain site
+# My captain python assignment
+All Assigmennt of mycaptain site
